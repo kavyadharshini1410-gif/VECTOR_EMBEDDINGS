@@ -1,0 +1,5 @@
+Title: AI Ethics and Data Privacy
+Category: AI Ethics
+Source: Educational project notes
+
+AI Ethics focuses on the responsible development and use of Artificial Intelligence. Important principles include fairness, transparency, accountability, and safety. Data privacy protects personal information from unauthorized access and misuse. AI developers should reduce bias, protect sensitive information, and ensure that AI systems are used responsibly. Ethical AI builds trust between technology and society.

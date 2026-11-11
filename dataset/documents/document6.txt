@@ -1,0 +1,5 @@
+Title: Natural Language Processing
+Category: Artificial Intelligence Applications
+Source: Educational project notes
+
+Natural Language Processing, also called NLP, is a field of Artificial Intelligence that enables computers to understand and process human language. NLP is used in chatbots, voice assistants, language translation, sentiment analysis, and text summarization. It helps computers understand written and spoken communication. NLP makes interaction between humans and computers easier.

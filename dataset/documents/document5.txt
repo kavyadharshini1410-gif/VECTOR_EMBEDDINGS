@@ -1,0 +1,5 @@
+Title: Deep Learning
+Category: Deep Learning
+Source: Educational project notes
+
+Deep Learning is a subset of machine learning inspired by the structure of the human brain. It uses artificial neural networks with multiple layers to learn complex patterns from large amounts of data. Deep learning is used in speech recognition, image classification, autonomous vehicles, and language translation. It requires suitable training data and computing resources.

@@ -1,0 +1,251 @@
+﻿query_id,query,document_id,title,keyword_score,retrieved_text,rank
+Q001,What is Artificial Intelligence?,document1,Introduction to Artificial Intelligence,1.0,"Title: Introduction to Artificial Intelligence
+Category: AI Fundamentals
+Source: Educational project notes
+
+Artificial Intelligence is a branch of computer science that focuses on creating machines that can perform tasks requiring human intelligence. These tasks include learning, problem-solving, decision-making, and understanding language. AI is used in virtual assistants, recommendation systems, healthcare, education, and transportation. Artificial Intelligence helps organizations automate tasks and improve efficiency.",1
+Q001,What is Artificial Intelligence?,document10,AI Ethics and Data Privacy,1.0,"Title: AI Ethics and Data Privacy
+Category: AI Ethics
+Source: Educational project notes
+
+AI Ethics focuses on the responsible development and use of Artificial Intelligence. Important principles include fairness, transparency, accountability, and safety. Data privacy protects personal information from unauthorized access and misuse. AI developers should reduce bias, protect sensitive information, and ensure that AI systems are used responsibly. Ethical AI builds trust between technology and society.",2
+Q001,What is Artificial Intelligence?,document2,Machine Learning,1.0,"Title: Machine Learning
+Category: Machine Learning
+Source: Educational project notes
+
+Machine Learning is a subset of Artificial Intelligence that enables computers to learn from data without being explicitly programmed for every task. Machine learning algorithms identify patterns and use them to make predictions. Common applications include spam detection, product recommendations, fraud detection, and weather forecasting. Machine learning improves its performance through experience and training data.",3
+Q001,What is Artificial Intelligence?,document6,Natural Language Processing,1.0,"Title: Natural Language Processing
+Category: Artificial Intelligence Applications
+Source: Educational project notes
+
+Natural Language Processing, also called NLP, is a field of Artificial Intelligence that enables computers to understand and process human language. NLP is used in chatbots, voice assistants, language translation, sentiment analysis, and text summarization. It helps computers understand written and spoken communication. NLP makes interaction between humans and computers easier.",4
+Q001,What is Artificial Intelligence?,document7,Computer Vision,1.0,"Title: Computer Vision
+Category: Artificial Intelligence Applications
+Source: Educational project notes
+
+Computer Vision is a branch of Artificial Intelligence that allows computers to understand and interpret images and videos. It uses image processing and machine learning techniques to identify objects, faces, and activities. Applications include medical image analysis, facial recognition, self-driving cars, and security monitoring. Computer Vision helps machines understand visual information.",5
+Q002,How do computers learn from data?,document2,Machine Learning,1.0,"Title: Machine Learning
+Category: Machine Learning
+Source: Educational project notes
+
+Machine Learning is a subset of Artificial Intelligence that enables computers to learn from data without being explicitly programmed for every task. Machine learning algorithms identify patterns and use them to make predictions. Common applications include spam detection, product recommendations, fraud detection, and weather forecasting. Machine learning improves its performance through experience and training data.",1
+Q002,How do computers learn from data?,document5,Deep Learning,0.6667,"Title: Deep Learning
+Category: Deep Learning
+Source: Educational project notes
+
+Deep Learning is a subset of machine learning inspired by the structure of the human brain. It uses artificial neural networks with multiple layers to learn complex patterns from large amounts of data. Deep learning is used in speech recognition, image classification, autonomous vehicles, and language translation. It requires suitable training data and computing resources.",2
+Q002,How do computers learn from data?,document10,AI Ethics and Data Privacy,0.3333,"Title: AI Ethics and Data Privacy
+Category: AI Ethics
+Source: Educational project notes
+
+AI Ethics focuses on the responsible development and use of Artificial Intelligence. Important principles include fairness, transparency, accountability, and safety. Data privacy protects personal information from unauthorized access and misuse. AI developers should reduce bias, protect sensitive information, and ensure that AI systems are used responsibly. Ethical AI builds trust between technology and society.",3
+Q002,How do computers learn from data?,document3,Supervised Learning,0.3333,"Title: Supervised Learning
+Category: Machine Learning
+Source: Educational project notes
+
+Supervised Learning is a type of machine learning where a model is trained using labelled data. Each training example contains input information and its correct output. The model learns the relationship between them and predicts results for new data. Classification and regression are common supervised learning techniques. Applications include email spam detection, house price prediction, and disease classification.",4
+Q002,How do computers learn from data?,document4,Unsupervised Learning,0.3333,"Title: Unsupervised Learning
+Category: Machine Learning
+Source: Educational project notes
+
+Unsupervised Learning is a machine learning technique that works with unlabelled data. The algorithm discovers hidden patterns, similarities, and groups without predefined answers. Clustering and association are common techniques. Businesses use unsupervised learning for customer segmentation, shopping pattern analysis, and grouping similar products. It helps discover useful information from large datasets.",5
+Q003,What is supervised learning?,document3,Supervised Learning,1.0,"Title: Supervised Learning
+Category: Machine Learning
+Source: Educational project notes
+
+Supervised Learning is a type of machine learning where a model is trained using labelled data. Each training example contains input information and its correct output. The model learns the relationship between them and predicts results for new data. Classification and regression are common supervised learning techniques. Applications include email spam detection, house price prediction, and disease classification.",1
+Q003,What is supervised learning?,document1,Introduction to Artificial Intelligence,0.5,"Title: Introduction to Artificial Intelligence
+Category: AI Fundamentals
+Source: Educational project notes
+
+Artificial Intelligence is a branch of computer science that focuses on creating machines that can perform tasks requiring human intelligence. These tasks include learning, problem-solving, decision-making, and understanding language. AI is used in virtual assistants, recommendation systems, healthcare, education, and transportation. Artificial Intelligence helps organizations automate tasks and improve efficiency.",2
+Q003,What is supervised learning?,document2,Machine Learning,0.5,"Title: Machine Learning
+Category: Machine Learning
+Source: Educational project notes
+
+Machine Learning is a subset of Artificial Intelligence that enables computers to learn from data without being explicitly programmed for every task. Machine learning algorithms identify patterns and use them to make predictions. Common applications include spam detection, product recommendations, fraud detection, and weather forecasting. Machine learning improves its performance through experience and training data.",3
+Q003,What is supervised learning?,document4,Unsupervised Learning,0.5,"Title: Unsupervised Learning
+Category: Machine Learning
+Source: Educational project notes
+
+Unsupervised Learning is a machine learning technique that works with unlabelled data. The algorithm discovers hidden patterns, similarities, and groups without predefined answers. Clustering and association are common techniques. Businesses use unsupervised learning for customer segmentation, shopping pattern analysis, and grouping similar products. It helps discover useful information from large datasets.",4
+Q003,What is supervised learning?,document5,Deep Learning,0.5,"Title: Deep Learning
+Category: Deep Learning
+Source: Educational project notes
+
+Deep Learning is a subset of machine learning inspired by the structure of the human brain. It uses artificial neural networks with multiple layers to learn complex patterns from large amounts of data. Deep learning is used in speech recognition, image classification, autonomous vehicles, and language translation. It requires suitable training data and computing resources.",5
+Q004,How does unsupervised learning work?,document4,Unsupervised Learning,0.6667,"Title: Unsupervised Learning
+Category: Machine Learning
+Source: Educational project notes
+
+Unsupervised Learning is a machine learning technique that works with unlabelled data. The algorithm discovers hidden patterns, similarities, and groups without predefined answers. Clustering and association are common techniques. Businesses use unsupervised learning for customer segmentation, shopping pattern analysis, and grouping similar products. It helps discover useful information from large datasets.",1
+Q004,How does unsupervised learning work?,document1,Introduction to Artificial Intelligence,0.3333,"Title: Introduction to Artificial Intelligence
+Category: AI Fundamentals
+Source: Educational project notes
+
+Artificial Intelligence is a branch of computer science that focuses on creating machines that can perform tasks requiring human intelligence. These tasks include learning, problem-solving, decision-making, and understanding language. AI is used in virtual assistants, recommendation systems, healthcare, education, and transportation. Artificial Intelligence helps organizations automate tasks and improve efficiency.",2
+Q004,How does unsupervised learning work?,document2,Machine Learning,0.3333,"Title: Machine Learning
+Category: Machine Learning
+Source: Educational project notes
+
+Machine Learning is a subset of Artificial Intelligence that enables computers to learn from data without being explicitly programmed for every task. Machine learning algorithms identify patterns and use them to make predictions. Common applications include spam detection, product recommendations, fraud detection, and weather forecasting. Machine learning improves its performance through experience and training data.",3
+Q004,How does unsupervised learning work?,document3,Supervised Learning,0.3333,"Title: Supervised Learning
+Category: Machine Learning
+Source: Educational project notes
+
+Supervised Learning is a type of machine learning where a model is trained using labelled data. Each training example contains input information and its correct output. The model learns the relationship between them and predicts results for new data. Classification and regression are common supervised learning techniques. Applications include email spam detection, house price prediction, and disease classification.",4
+Q004,How does unsupervised learning work?,document5,Deep Learning,0.3333,"Title: Deep Learning
+Category: Deep Learning
+Source: Educational project notes
+
+Deep Learning is a subset of machine learning inspired by the structure of the human brain. It uses artificial neural networks with multiple layers to learn complex patterns from large amounts of data. Deep learning is used in speech recognition, image classification, autonomous vehicles, and language translation. It requires suitable training data and computing resources.",5
+Q005,What are neural networks?,document5,Deep Learning,1.0,"Title: Deep Learning
+Category: Deep Learning
+Source: Educational project notes
+
+Deep Learning is a subset of machine learning inspired by the structure of the human brain. It uses artificial neural networks with multiple layers to learn complex patterns from large amounts of data. Deep learning is used in speech recognition, image classification, autonomous vehicles, and language translation. It requires suitable training data and computing resources.",1
+Q005,What are neural networks?,document1,Introduction to Artificial Intelligence,0.0,"Title: Introduction to Artificial Intelligence
+Category: AI Fundamentals
+Source: Educational project notes
+
+Artificial Intelligence is a branch of computer science that focuses on creating machines that can perform tasks requiring human intelligence. These tasks include learning, problem-solving, decision-making, and understanding language. AI is used in virtual assistants, recommendation systems, healthcare, education, and transportation. Artificial Intelligence helps organizations automate tasks and improve efficiency.",2
+Q005,What are neural networks?,document10,AI Ethics and Data Privacy,0.0,"Title: AI Ethics and Data Privacy
+Category: AI Ethics
+Source: Educational project notes
+
+AI Ethics focuses on the responsible development and use of Artificial Intelligence. Important principles include fairness, transparency, accountability, and safety. Data privacy protects personal information from unauthorized access and misuse. AI developers should reduce bias, protect sensitive information, and ensure that AI systems are used responsibly. Ethical AI builds trust between technology and society.",3
+Q005,What are neural networks?,document2,Machine Learning,0.0,"Title: Machine Learning
+Category: Machine Learning
+Source: Educational project notes
+
+Machine Learning is a subset of Artificial Intelligence that enables computers to learn from data without being explicitly programmed for every task. Machine learning algorithms identify patterns and use them to make predictions. Common applications include spam detection, product recommendations, fraud detection, and weather forecasting. Machine learning improves its performance through experience and training data.",4
+Q005,What are neural networks?,document3,Supervised Learning,0.0,"Title: Supervised Learning
+Category: Machine Learning
+Source: Educational project notes
+
+Supervised Learning is a type of machine learning where a model is trained using labelled data. Each training example contains input information and its correct output. The model learns the relationship between them and predicts results for new data. Classification and regression are common supervised learning techniques. Applications include email spam detection, house price prediction, and disease classification.",5
+Q006,How can computers understand human language?,document6,Natural Language Processing,1.0,"Title: Natural Language Processing
+Category: Artificial Intelligence Applications
+Source: Educational project notes
+
+Natural Language Processing, also called NLP, is a field of Artificial Intelligence that enables computers to understand and process human language. NLP is used in chatbots, voice assistants, language translation, sentiment analysis, and text summarization. It helps computers understand written and spoken communication. NLP makes interaction between humans and computers easier.",1
+Q006,How can computers understand human language?,document1,Introduction to Artificial Intelligence,0.5,"Title: Introduction to Artificial Intelligence
+Category: AI Fundamentals
+Source: Educational project notes
+
+Artificial Intelligence is a branch of computer science that focuses on creating machines that can perform tasks requiring human intelligence. These tasks include learning, problem-solving, decision-making, and understanding language. AI is used in virtual assistants, recommendation systems, healthcare, education, and transportation. Artificial Intelligence helps organizations automate tasks and improve efficiency.",2
+Q006,How can computers understand human language?,document5,Deep Learning,0.5,"Title: Deep Learning
+Category: Deep Learning
+Source: Educational project notes
+
+Deep Learning is a subset of machine learning inspired by the structure of the human brain. It uses artificial neural networks with multiple layers to learn complex patterns from large amounts of data. Deep learning is used in speech recognition, image classification, autonomous vehicles, and language translation. It requires suitable training data and computing resources.",3
+Q006,How can computers understand human language?,document7,Computer Vision,0.5,"Title: Computer Vision
+Category: Artificial Intelligence Applications
+Source: Educational project notes
+
+Computer Vision is a branch of Artificial Intelligence that allows computers to understand and interpret images and videos. It uses image processing and machine learning techniques to identify objects, faces, and activities. Applications include medical image analysis, facial recognition, self-driving cars, and security monitoring. Computer Vision helps machines understand visual information.",4
+Q006,How can computers understand human language?,document2,Machine Learning,0.25,"Title: Machine Learning
+Category: Machine Learning
+Source: Educational project notes
+
+Machine Learning is a subset of Artificial Intelligence that enables computers to learn from data without being explicitly programmed for every task. Machine learning algorithms identify patterns and use them to make predictions. Common applications include spam detection, product recommendations, fraud detection, and weather forecasting. Machine learning improves its performance through experience and training data.",5
+Q007,How do computers recognize images?,document7,Computer Vision,0.6667,"Title: Computer Vision
+Category: Artificial Intelligence Applications
+Source: Educational project notes
+
+Computer Vision is a branch of Artificial Intelligence that allows computers to understand and interpret images and videos. It uses image processing and machine learning techniques to identify objects, faces, and activities. Applications include medical image analysis, facial recognition, self-driving cars, and security monitoring. Computer Vision helps machines understand visual information.",1
+Q007,How do computers recognize images?,document2,Machine Learning,0.3333,"Title: Machine Learning
+Category: Machine Learning
+Source: Educational project notes
+
+Machine Learning is a subset of Artificial Intelligence that enables computers to learn from data without being explicitly programmed for every task. Machine learning algorithms identify patterns and use them to make predictions. Common applications include spam detection, product recommendations, fraud detection, and weather forecasting. Machine learning improves its performance through experience and training data.",2
+Q007,How do computers recognize images?,document6,Natural Language Processing,0.3333,"Title: Natural Language Processing
+Category: Artificial Intelligence Applications
+Source: Educational project notes
+
+Natural Language Processing, also called NLP, is a field of Artificial Intelligence that enables computers to understand and process human language. NLP is used in chatbots, voice assistants, language translation, sentiment analysis, and text summarization. It helps computers understand written and spoken communication. NLP makes interaction between humans and computers easier.",3
+Q007,How do computers recognize images?,document1,Introduction to Artificial Intelligence,0.0,"Title: Introduction to Artificial Intelligence
+Category: AI Fundamentals
+Source: Educational project notes
+
+Artificial Intelligence is a branch of computer science that focuses on creating machines that can perform tasks requiring human intelligence. These tasks include learning, problem-solving, decision-making, and understanding language. AI is used in virtual assistants, recommendation systems, healthcare, education, and transportation. Artificial Intelligence helps organizations automate tasks and improve efficiency.",4
+Q007,How do computers recognize images?,document10,AI Ethics and Data Privacy,0.0,"Title: AI Ethics and Data Privacy
+Category: AI Ethics
+Source: Educational project notes
+
+AI Ethics focuses on the responsible development and use of Artificial Intelligence. Important principles include fairness, transparency, accountability, and safety. Data privacy protects personal information from unauthorized access and misuse. AI developers should reduce bias, protect sensitive information, and ensure that AI systems are used responsibly. Ethical AI builds trust between technology and society.",5
+Q008,Why is data cleaning important?,document8,Data Preprocessing,1.0,"Title: Data Preprocessing
+Category: Data Science
+Source: Educational project notes
+
+Data Preprocessing is an important step in data science and machine learning. It involves cleaning and preparing raw data before analysis. Common activities include handling missing values, removing duplicate records, correcting errors, and converting data into suitable formats. Data preprocessing improves data quality and helps machine learning models produce more reliable results.",1
+Q008,Why is data cleaning important?,document10,AI Ethics and Data Privacy,0.6667,"Title: AI Ethics and Data Privacy
+Category: AI Ethics
+Source: Educational project notes
+
+AI Ethics focuses on the responsible development and use of Artificial Intelligence. Important principles include fairness, transparency, accountability, and safety. Data privacy protects personal information from unauthorized access and misuse. AI developers should reduce bias, protect sensitive information, and ensure that AI systems are used responsibly. Ethical AI builds trust between technology and society.",2
+Q008,Why is data cleaning important?,document2,Machine Learning,0.3333,"Title: Machine Learning
+Category: Machine Learning
+Source: Educational project notes
+
+Machine Learning is a subset of Artificial Intelligence that enables computers to learn from data without being explicitly programmed for every task. Machine learning algorithms identify patterns and use them to make predictions. Common applications include spam detection, product recommendations, fraud detection, and weather forecasting. Machine learning improves its performance through experience and training data.",3
+Q008,Why is data cleaning important?,document3,Supervised Learning,0.3333,"Title: Supervised Learning
+Category: Machine Learning
+Source: Educational project notes
+
+Supervised Learning is a type of machine learning where a model is trained using labelled data. Each training example contains input information and its correct output. The model learns the relationship between them and predicts results for new data. Classification and regression are common supervised learning techniques. Applications include email spam detection, house price prediction, and disease classification.",4
+Q008,Why is data cleaning important?,document4,Unsupervised Learning,0.3333,"Title: Unsupervised Learning
+Category: Machine Learning
+Source: Educational project notes
+
+Unsupervised Learning is a machine learning technique that works with unlabelled data. The algorithm discovers hidden patterns, similarities, and groups without predefined answers. Clustering and association are common techniques. Businesses use unsupervised learning for customer segmentation, shopping pattern analysis, and grouping similar products. It helps discover useful information from large datasets.",5
+Q009,What are the different types of data visualization?,document9,Data Visualization,0.5,"Title: Data Visualization
+Category: Data Science
+Source: Educational project notes
+
+Data Visualization is the process of representing information through charts, graphs, and diagrams. It helps people understand complex data and identify patterns, trends, and relationships. Common visualization tools include Matplotlib, Seaborn, Power BI, and Tableau. Bar charts, line charts, pie charts, and scatter plots are frequently used in data analysis.",1
+Q009,What are the different types of data visualization?,document10,AI Ethics and Data Privacy,0.25,"Title: AI Ethics and Data Privacy
+Category: AI Ethics
+Source: Educational project notes
+
+AI Ethics focuses on the responsible development and use of Artificial Intelligence. Important principles include fairness, transparency, accountability, and safety. Data privacy protects personal information from unauthorized access and misuse. AI developers should reduce bias, protect sensitive information, and ensure that AI systems are used responsibly. Ethical AI builds trust between technology and society.",2
+Q009,What are the different types of data visualization?,document2,Machine Learning,0.25,"Title: Machine Learning
+Category: Machine Learning
+Source: Educational project notes
+
+Machine Learning is a subset of Artificial Intelligence that enables computers to learn from data without being explicitly programmed for every task. Machine learning algorithms identify patterns and use them to make predictions. Common applications include spam detection, product recommendations, fraud detection, and weather forecasting. Machine learning improves its performance through experience and training data.",3
+Q009,What are the different types of data visualization?,document3,Supervised Learning,0.25,"Title: Supervised Learning
+Category: Machine Learning
+Source: Educational project notes
+
+Supervised Learning is a type of machine learning where a model is trained using labelled data. Each training example contains input information and its correct output. The model learns the relationship between them and predicts results for new data. Classification and regression are common supervised learning techniques. Applications include email spam detection, house price prediction, and disease classification.",4
+Q009,What are the different types of data visualization?,document4,Unsupervised Learning,0.25,"Title: Unsupervised Learning
+Category: Machine Learning
+Source: Educational project notes
+
+Unsupervised Learning is a machine learning technique that works with unlabelled data. The algorithm discovers hidden patterns, similarities, and groups without predefined answers. Clustering and association are common techniques. Businesses use unsupervised learning for customer segmentation, shopping pattern analysis, and grouping similar products. It helps discover useful information from large datasets.",5
+Q010,Why is data privacy important in AI?,document10,AI Ethics and Data Privacy,1.0,"Title: AI Ethics and Data Privacy
+Category: AI Ethics
+Source: Educational project notes
+
+AI Ethics focuses on the responsible development and use of Artificial Intelligence. Important principles include fairness, transparency, accountability, and safety. Data privacy protects personal information from unauthorized access and misuse. AI developers should reduce bias, protect sensitive information, and ensure that AI systems are used responsibly. Ethical AI builds trust between technology and society.",1
+Q010,Why is data privacy important in AI?,document8,Data Preprocessing,0.5,"Title: Data Preprocessing
+Category: Data Science
+Source: Educational project notes
+
+Data Preprocessing is an important step in data science and machine learning. It involves cleaning and preparing raw data before analysis. Common activities include handling missing values, removing duplicate records, correcting errors, and converting data into suitable formats. Data preprocessing improves data quality and helps machine learning models produce more reliable results.",2
+Q010,Why is data privacy important in AI?,document1,Introduction to Artificial Intelligence,0.25,"Title: Introduction to Artificial Intelligence
+Category: AI Fundamentals
+Source: Educational project notes
+
+Artificial Intelligence is a branch of computer science that focuses on creating machines that can perform tasks requiring human intelligence. These tasks include learning, problem-solving, decision-making, and understanding language. AI is used in virtual assistants, recommendation systems, healthcare, education, and transportation. Artificial Intelligence helps organizations automate tasks and improve efficiency.",3
+Q010,Why is data privacy important in AI?,document2,Machine Learning,0.25,"Title: Machine Learning
+Category: Machine Learning
+Source: Educational project notes
+
+Machine Learning is a subset of Artificial Intelligence that enables computers to learn from data without being explicitly programmed for every task. Machine learning algorithms identify patterns and use them to make predictions. Common applications include spam detection, product recommendations, fraud detection, and weather forecasting. Machine learning improves its performance through experience and training data.",4
+Q010,Why is data privacy important in AI?,document3,Supervised Learning,0.25,"Title: Supervised Learning
+Category: Machine Learning
+Source: Educational project notes
+
+Supervised Learning is a type of machine learning where a model is trained using labelled data. Each training example contains input information and its correct output. The model learns the relationship between them and predicts results for new data. Classification and regression are common supervised learning techniques. Applications include email spam detection, house price prediction, and disease classification.",5

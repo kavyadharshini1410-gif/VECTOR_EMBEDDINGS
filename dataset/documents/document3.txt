@@ -1,0 +1,5 @@
+Title: Supervised Learning
+Category: Machine Learning
+Source: Educational project notes
+
+Supervised Learning is a type of machine learning where a model is trained using labelled data. Each training example contains input information and its correct output. The model learns the relationship between them and predicts results for new data. Classification and regression are common supervised learning techniques. Applications include email spam detection, house price prediction, and disease classification.

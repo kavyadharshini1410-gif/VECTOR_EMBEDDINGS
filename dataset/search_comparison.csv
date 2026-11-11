@@ -1,0 +1,11 @@
+﻿query_id,query,semantic_top_result,semantic_score,keyword_top_result,keyword_score,same_top_result,common_top5_count
+Q001,What is Artificial Intelligence?,Introduction to Artificial Intelligence,0.7932,Introduction to Artificial Intelligence,1.0,True,5
+Q002,How do computers learn from data?,Machine Learning,0.4676,Machine Learning,1.0,True,3
+Q003,What is supervised learning?,Supervised Learning,0.7379,Supervised Learning,1.0,True,4
+Q004,How does unsupervised learning work?,Unsupervised Learning,0.6032,Unsupervised Learning,0.6667,True,4
+Q005,What are neural networks?,Deep Learning,0.534,Deep Learning,1.0,True,4
+Q006,How can computers understand human language?,Natural Language Processing,0.4068,Natural Language Processing,1.0,True,5
+Q007,How do computers recognize images?,Computer Vision,0.5727,Computer Vision,0.6667,True,3
+Q008,Why is data cleaning important?,Data Preprocessing,0.5256,Data Preprocessing,1.0,True,4
+Q009,What are the different types of data visualization?,Data Visualization,0.8079,Data Visualization,0.5,True,3
+Q010,Why is data privacy important in AI?,AI Ethics and Data Privacy,0.7451,AI Ethics and Data Privacy,1.0,True,4

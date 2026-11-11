@@ -1,0 +1,5 @@
+Title: Machine Learning
+Category: Machine Learning
+Source: Educational project notes
+
+Machine Learning is a subset of Artificial Intelligence that enables computers to learn from data without being explicitly programmed for every task. Machine learning algorithms identify patterns and use them to make predictions. Common applications include spam detection, product recommendations, fraud detection, and weather forecasting. Machine learning improves its performance through experience and training data.

@@ -1,0 +1,5 @@
+Title: Computer Vision
+Category: Artificial Intelligence Applications
+Source: Educational project notes
+
+Computer Vision is a branch of Artificial Intelligence that allows computers to understand and interpret images and videos. It uses image processing and machine learning techniques to identify objects, faces, and activities. Applications include medical image analysis, facial recognition, self-driving cars, and security monitoring. Computer Vision helps machines understand visual information.

@@ -1,0 +1,5 @@
+Title: Data Visualization
+Category: Data Science
+Source: Educational project notes
+
+Data Visualization is the process of representing information through charts, graphs, and diagrams. It helps people understand complex data and identify patterns, trends, and relationships. Common visualization tools include Matplotlib, Seaborn, Power BI, and Tableau. Bar charts, line charts, pie charts, and scatter plots are frequently used in data analysis.

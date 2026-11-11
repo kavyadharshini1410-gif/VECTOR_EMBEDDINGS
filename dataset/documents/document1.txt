@@ -1,0 +1,5 @@
+Title: Introduction to Artificial Intelligence
+Category: AI Fundamentals
+Source: Educational project notes
+
+Artificial Intelligence is a branch of computer science that focuses on creating machines that can perform tasks requiring human intelligence. These tasks include learning, problem-solving, decision-making, and understanding language. AI is used in virtual assistants, recommendation systems, healthcare, education, and transportation. Artificial Intelligence helps organizations automate tasks and improve efficiency.

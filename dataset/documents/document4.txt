@@ -1,0 +1,5 @@
+Title: Unsupervised Learning
+Category: Machine Learning
+Source: Educational project notes
+
+Unsupervised Learning is a machine learning technique that works with unlabelled data. The algorithm discovers hidden patterns, similarities, and groups without predefined answers. Clustering and association are common techniques. Businesses use unsupervised learning for customer segmentation, shopping pattern analysis, and grouping similar products. It helps discover useful information from large datasets.

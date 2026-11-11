@@ -1,0 +1,5 @@
+Title: Data Preprocessing
+Category: Data Science
+Source: Educational project notes
+
+Data Preprocessing is an important step in data science and machine learning. It involves cleaning and preparing raw data before analysis. Common activities include handling missing values, removing duplicate records, correcting errors, and converting data into suitable formats. Data preprocessing improves data quality and helps machine learning models produce more reliable results.
